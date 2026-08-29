@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fandom",
+    "label": { "en": "Fandom & Community", "zh": "圈层与身份", "ja": "ファンダムと共同体" },
+    "blurb": {
+      "en": "How fans describe belonging, loyalty and leaving.",
+      "zh": "粉丝如何描述归属、忠诚，以及离开。",
+      "ja": "帰属・忠誠・離脱をファンがどう語るか。"
+    }
+  },
+  {
+    "id": "shipping",
+    "label": { "en": "Shipping / CP", "zh": "配对与 CP", "ja": "カップリング" },
+    "blurb": {
+      "en": "Pairings, boundaries, and the etiquette around both.",
+      "zh": "配对、雷点，以及围绕两者的礼仪。",
+      "ja": "カップリングと、その周りのマナー。"
+    }
+  },
+  {
+    "id": "character",
+    "label": { "en": "Character Archetypes", "zh": "角色属性", "ja": "キャラ属性" },
+    "blurb": {
+      "en": "Shorthand for personality patterns and relationship roles.",
+      "zh": "描述性格模式与关系角色的速记词。",
+      "ja": "性格や関係性を一語で示す略号。"
+    }
+  },
+  {
+    "id": "creation",
+    "label": { "en": "Fan Creation", "zh": "二次创作", "ja": "二次創作" },
+    "blurb": {
+      "en": "Genres, honorifics and warnings used by fan creators.",
+      "zh": "同人创作者使用的类型、敬称与预警。",
+      "ja": "同人創作のジャンル・敬称・注意書き。"
+    }
+  },
+  {
+    "id": "gaming",
+    "label": { "en": "Gaming", "zh": "游戏", "ja": "ゲーム" },
+    "blurb": {
+      "en": "What a gacha game costs you: time, money and luck.",
+      "zh": "抽卡游戏消耗你的三样东西：时间、钱、运气。",
+      "ja": "ガチャゲーが奪うもの——時間・金銭・運。"
+    }
+  },
+  {
+    "id": "slang",
+    "label": { "en": "Internet Slang", "zh": "网络用语", "ja": "ネットスラング" },
+    "blurb": {
+      "en": "Bullet comments, reactions and the words that leaked into everyday speech.",
+      "zh": "弹幕、反应，以及那些渗进日常语言的词。",
+      "ja": "弾幕・リアクション、そして日常語になった言葉。"
+    }
+  }
+]

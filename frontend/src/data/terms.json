@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "kusa",
+    "term": "草",
+    "aliases": ["w", "ww", "wwww", "wwwww", "2333", "233", "笑", "grass", "kusa", "草生える", "大草原"],
+    "reading": "kusa / くさ",
+    "source_language": "ja",
+    "machine_translation": "grass",
+    "real_meaning": {
+      "en": "Laughter. Like \"lol\".",
+      "zh": "在笑，相当于「哈哈」。",
+      "ja": "笑っているという意味。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Japanese users type w for 笑 (warai, \"laugh\"). A lot of laughing looks like wwwww — a row of little plants. So people started writing 草, the word for grass. Seeing 草 in a comment means someone thought it was funny.",
+        "zh": "日语「笑」的罗马音开头是 w，所以网友用 w 表示笑。笑得多了就是 wwwww，一排看着像地上长的草，于是干脆写成「草」。看到有人发草，意思就是他觉得好笑。",
+        "ja": "「笑」をローマ字の頭文字 w で表す。たくさん笑うと wwwww となり、草が生えているように見えることから「草」と書くようになった。コメントに草があれば面白いと思っているということ。"
+      },
+      "full": {
+        "en": "On 2ch in the early 2000s, 笑 (warai) was shortened to its romaji initial w. Strings of w (wwwww) resembled sprouting grass, so 草 became a noun for the laughter itself: 草 (lol), 草生える (\"grass grows\" = that's funny), 大草原 (\"a whole prairie\" = hysterical). It marks amusement at something absurd rather than mockery of a person — using it to laugh at someone directly reads as hostile.",
+        "zh": "2000 年代初 2ch 上，「笑」被简写成罗马音首字母 w。连打的 wwwww 形似冒出来的草，「草」于是变成了「笑」本身的名词：草（笑死）、草生える（长草了，太好笑）、大草原（笑到不行）。它标记的是对某件荒谬事情的乐，而不是对某个人的嘲讽——用它笑话具体的人会显得有攻击性。",
+        "ja": "2000年代初頭の2chで「笑」がローマ字頭文字の w に略され、連打した wwwww が生えた草に見えることから、「草」が笑いそのものを指す名詞になった。草、草生える、大草原（爆笑）など。理不尽なものへの可笑しさを示すもので、特定の人物を嘲る用法は攻撃的に受け取られる。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "草 = laughing. Neutral, very common, safe to use.", "zh": "草 = 在笑。中性、极常用，随便用没问题。", "ja": "草＝笑い。中立的で非常によく使われ、安全。" } },
+      { "lang": "zh", "note": { "en": "Borrowed from Japanese and also means \"lol\" — but 草 is also a crude swear word in Chinese. Context decides. Be careful.", "zh": "从日语借来，也表示笑——但中文的「草」同时是一句脏话，全看语境，用之前先想一秒。", "ja": "日本語から借用され笑いを表すが、中国語の「草」は同時に下品な罵り言葉でもある。文脈次第。" } },
+      { "lang": "en", "note": { "en": "No equivalent. English fans just write \"lol\" or \"lmao\"; \"grass\" means nothing.", "zh": "没有对应词。英文圈直接写 lol 或 lmao，「grass」什么都不是。", "ja": "対応語なし。英語圏では lol や lmao と書く。" } }
+    ],
+    "example": {
+      "text": "この作画崩壊、草",
+      "translation": { "en": "\"This animation is falling apart, lol\"", "zh": "「这作画崩得，笑死」" },
+      "source": "ニコニコ動画 弹幕"
+    },
+    "category": "slang",
+    "tags": ["laughter", "bullet-chat", "cross-language"],
+    "related": ["pofang", "kamikai"],
+    "sensitivity": "safe",
+    "first_seen": "2ch, early 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "taitai",
+    "term": "太太",
+    "aliases": ["tt", "太太们", "大手", "otsu", "大大"],
+    "reading": "tài tai",
+    "source_language": "zh",
+    "machine_translation": "wife / Mrs.",
+    "real_meaning": {
+      "en": "An honorific for a respected fan creator. Nothing to do with wives.",
+      "zh": "对同人创作者（写手、画手）的敬称，和「妻子」无关。",
+      "ja": "尊敬される同人作家への敬称。「妻」の意味ではない。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "In Chinese fandom, someone whose fan art or fan fiction you admire is called 太太. It is a title of respect, like calling someone \"master\". A comment saying \"太太求更新\" means \"please post more, I love your work\".",
+        "zh": "在中文同人圈里，你欣赏的画手或写手会被叫作「太太」。这是一种尊称，类似「大佬」。看到「太太求更新」，意思是「求你多写点，我太喜欢了」。",
+        "ja": "中国語のファンダムでは、尊敬する絵師や書き手を「太太」と呼ぶ。「先生」に近い敬称で、「太太求更新」は「続きをお願いします」という意味。"
+      },
+      "full": {
+        "en": "太太 literally means \"madam\" or \"wife\", but in fandom it drifted into a gender-neutral honorific for skilled fan creators, roughly equivalent to Japanese 神絵師 or English \"BNF\". It is bestowed by readers, never claimed by yourself — calling yourself 太太 reads as arrogant. Related forms: 大大 (same use, slightly more casual), 手 as in 画手 / 写手 for creators in general.",
+        "zh": "「太太」字面是「夫人」，但在同人圈演变成不分性别的敬称，用来称呼有实力的创作者，大致相当于日语的「神絵師」或英文的 BNF。它由读者赠予，不能自称——自称太太会显得很自大。相关说法：大大（更随意）、画手 / 写手（泛指创作者）。",
+        "ja": "「太太」は本来「夫人」の意だが、ファンダムでは性別を問わず実力ある創作者への敬称に転じた。日本語の「神絵師」、英語の BNF に近い。読者が贈るもので、自称すると傲慢に映る。関連語に「大大」「画手」「写手」がある。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "The standard honorific in Chinese fandom. Very common in comments and tags.", "zh": "中文同人圈的标准敬称，评论区和 tag 里极常见。", "ja": "中国語圏のファンダムで標準的な敬称。" } },
+      { "lang": "ja", "note": { "en": "Japanese fandom uses 神 / 神絵師 / 先生 instead. 太太 would just read as \"Mrs\".", "zh": "日语圈用「神」「神絵師」「先生」，说太太只会被理解成「夫人」。", "ja": "日本語圏では「神」「神絵師」「先生」を使う。" } },
+      { "lang": "en", "note": { "en": "Closest is \"BNF\" (Big Name Fan) or just \"this artist is a legend\".", "zh": "最接近的是 BNF（Big Name Fan），或者干脆说 this artist is a legend。", "ja": "英語圏では BNF が近い。" } }
+    ],
+    "example": {
+      "text": "太太这张图我存了三年了，求出本！",
+      "translation": { "en": "\"I've had this artist's piece saved for three years — please publish a doujinshi!\"", "zh": "「这位太太的图我存了三年了，求出本！」" },
+      "source": "微博 / Lofter 评论"
+    },
+    "category": "creation",
+    "tags": ["honorific", "fan-artist", "false-friend"],
+    "related": ["dao", "tang", "ooc"],
+    "sensitivity": "safe",
+    "first_seen": "中文同人圈, 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "jirai",
+    "term": "地雷",
+    "aliases": ["jirai", "じらい", "雷", "踩雷", "landmine", "地雷系"],
+    "reading": "jirai / じらい · dì léi",
+    "source_language": "ja",
+    "machine_translation": "landmine",
+    "real_meaning": {
+      "en": "A character, pairing or topic someone strongly dislikes and wants to avoid.",
+      "zh": "某人强烈反感、希望避开的角色、CP 或话题。",
+      "ja": "強烈に苦手で、避けたいキャラ・カップリング・話題のこと。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "If a fan says a pairing is their 地雷, they mean seeing it upsets them — like stepping on a landmine. It is a warning, not an insult. Creators write \"地雷 tags\" at the top of a work so readers can leave before they get hurt.",
+        "zh": "如果有人说某个 CP 是自己的「地雷」，意思是看到就会不舒服，像踩到地雷一样。这是一种提醒，不是骂人。创作者会在作品开头标注雷点，让读者提前避开。",
+        "ja": "あるカップリングが「地雷」だと言えば、見ると気分を害するという意味。攻撃ではなく警告で、作品の冒頭に地雷タグを書いて読者が避けられるようにする。"
+      },
+      "full": {
+        "en": "地雷 is the backbone of fandom self-protection etiquette. Because fan spaces mix wildly different readings of the same characters, communities developed a norm of declaring your landmines up front and tagging your work so that people can filter rather than fight. Saying \"CP is my 地雷\" is not a criticism of people who like it — the polite framing is explicitly \"my problem, not yours\". Note the unrelated fashion subculture 地雷系, which describes a pink-and-black gothic style and the emotional archetype attached to it.",
+        "zh": "「地雷」是同人圈自我保护礼仪的核心。因为同一批角色在圈内有截然不同的解读，社区形成了「提前声明雷点、给作品打标」的规范，让人可以过滤而不是吵架。说「这对是我的地雷」并不是在批评喜欢的人——礼貌的表述明确是「我的问题，不是你的问题」。注意还有一个无关的时尚亚文化「地雷系」，指粉黑哥特风格及其对应的情绪形象。",
+        "ja": "「地雷」はファンダムの自衛マナーの中核。同じキャラでも解釈が大きく異なるため、地雷を事前に宣言し作品にタグを付けて、争わずに回避できるようにする規範が生まれた。「このCPは地雷」は好きな人への批判ではなく、あくまで自分の問題という枠組みで語られる。なお無関係のファッション「地雷系」も存在する。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Origin of the term; used with 苦手 and 注意 in work descriptions.", "zh": "词源在日语圈，常和「苦手」「注意」一起出现在作品说明里。", "ja": "語源。作品説明で「苦手」「注意」と併記される。" } },
+      { "lang": "zh", "note": { "en": "Borrowed wholesale; 踩雷 means \"I ran into my landmine\".", "zh": "整体借用，「踩雷」指不小心撞上了自己的雷点。", "ja": "そのまま借用。「踩雷」は地雷を踏んだの意。" } },
+      { "lang": "en", "note": { "en": "The equivalent is a \"squick\" or \"NOTP\", and the tagging norm is AO3's archive warnings.", "zh": "英文圈对应 squick 或 NOTP，打标规范就是 AO3 的 archive warnings。", "ja": "英語圏では squick や NOTP が近く、AO3 の警告タグが同じ役割を果たす。" } }
+    ],
+    "example": {
+      "text": "先说好，这对是我地雷，不接受讨论，圈地自萌就好。",
+      "translation": { "en": "\"Just so we're clear, this ship is a landmine for me. I'm not debating it — let's each stay in our own lane.\"", "zh": "「先说好，这对是我地雷，不接受讨论，各自圈地自萌就好。」" },
+      "source": "Lofter 个人主页说明"
+    },
+    "category": "shipping",
+    "tags": ["boundaries", "content-warning", "false-friend"],
+    "related": ["kaishaku-chigai", "quandi-zimeng", "dotan-kyohi"],
+    "sensitivity": "safe",
+    "first_seen": "日本のファンダム, 1990s–2000s",
+    "status": "verified"
+  },
+  {
+    "id": "gan",
+    "term": "肝",
+    "aliases": ["肝了", "爆肝", "肝帝", "liver", "gan"],
+    "reading": "gān",
+    "source_language": "zh",
+    "machine_translation": "liver",
+    "real_meaning": {
+      "en": "To grind — playing for hours on end, at the cost of sleep.",
+      "zh": "熬夜苦刷，用睡眠换游戏进度。",
+      "ja": "睡眠を削ってゲームを延々とやり込むこと。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Used as a verb: \"I 肝ed all night.\" It comes from the idea that staying up late damages your liver. If someone says they are 爆肝ing an event, they are grinding a game event without sleeping.",
+        "zh": "当动词用：「我肝了一晚上」。来源是熬夜伤肝的说法。有人说自己在爆肝活动，意思是通宵刷游戏活动。",
+        "ja": "動詞として使う。夜更かしは肝臓を痛めるという発想から。「爆肝」は寝ずにイベントを周回すること。"
+      },
+      "full": {
+        "en": "肝 is one of a trio of gacha-game verbs describing what a game costs you: 肝 costs time and health, 氪 costs money, and 欧/非 is the luck you cannot control. The three together are how Chinese players describe the entire economy of a gacha game, often self-mockingly — calling yourself a 肝帝 (\"grind emperor\") is a boast and a complaint at the same time.",
+        "zh": "「肝」是抽卡游戏三个动词之一，分别对应游戏消耗你的三样东西：肝耗时间和健康，氪耗钱，欧/非是你控制不了的运气。三个词合起来就是中文玩家描述抽卡游戏经济系统的方式，通常带自嘲——自称「肝帝」既是炫耀也是抱怨。",
+        "ja": "「肝」はガチャゲーの三つの動詞の一つ。肝は時間と健康、氪は金銭、欧/非は制御できない運を指す。三語でガチャゲーの経済全体を語る。「肝帝」は自慢と愚痴を兼ねた自称。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Everyday gamer vocabulary, far beyond ACG circles.", "zh": "已经是普通玩家日常词汇，远超出二次元圈。", "ja": "ACG圏を超えて一般ゲーマー語彙になっている。" } },
+      { "lang": "ja", "note": { "en": "Japanese says 周回 (grinding laps) or 廃課金 for the money side.", "zh": "日语说「周回」，花钱那边说「廃課金」。", "ja": "日本語では「周回」、課金面は「廃課金」。" } },
+      { "lang": "en", "note": { "en": "\"Grinding\" or \"no-lifing an event\". No organ involved.", "zh": "英文说 grinding 或 no-lifing an event，跟器官没关系。", "ja": "英語では grinding。臓器とは無関係。" } }
+    ],
+    "example": {
+      "text": "这个活动我肝了三个通宵，保底还没出。",
+      "translation": { "en": "\"I've ground this event for three all-nighters and still haven't hit pity.\"", "zh": "「这个活动我通宵刷了三天，保底都还没出。」" },
+      "source": "NGA / 贴吧"
+    },
+    "category": "gaming",
+    "tags": ["gacha", "grinding", "false-friend"],
+    "related": ["kejin", "ou-fei", "baodi"],
+    "sensitivity": "safe",
+    "first_seen": "中文手游圈, ~2015",
+    "status": "verified"
+  },
+  {
+    "id": "kejin",
+    "term": "氪金",
+    "aliases": ["氪", "课金", "氪佬", "krypton", "kejin", "課金"],
+    "reading": "kè jīn",
+    "source_language": "zh",
+    "machine_translation": "krypton gold",
+    "real_meaning": {
+      "en": "Spending real money in a game, usually on gacha pulls.",
+      "zh": "在游戏里花真钱，通常指抽卡。",
+      "ja": "ゲームに実際のお金を使うこと（主にガチャ）。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "氪 is the Chinese name for the element krypton. It was picked because it sounds like 課 in Japanese 課金 (kakin, \"paying\"). So 氪金 means paying money into a game. A 氪佬 is a whale who spends a lot.",
+        "zh": "「氪」是化学元素氪的氪，被选中是因为它谐音日语「課金」的「課」。所以「氪金」就是往游戏里充钱。「氪佬」指花钱很多的大佬。",
+        "ja": "「氪」は元素クリプトンの字で、日本語「課金」の「課」との音の近さから選ばれた。「氪金」は課金すること、「氪佬」は重課金者。"
+      },
+      "full": {
+        "en": "The word is a deliberate mis-transcription of Japanese 課金, and the sci-fi flavour of \"krypton\" made it stick. It carries a self-aware, slightly rueful tone: players joke about 氪 as if it were a substance they are addicted to (氪一单 = \"one dose\"). The opposite, playing entirely free, is 白嫖 — literally \"freeloading\", used without much shame.",
+        "zh": "这个词是对日语「課金」的故意错译，「氪」的科幻味让它流行开来。它自带自嘲语气，玩家把氪说得像一种上瘾物质（氪一单＝来一剂）。反面是完全不花钱玩，叫「白嫖」，用起来并不太丢人。",
+        "ja": "日本語「課金」の意図的な当て字で、クリプトンのSF的な語感から定着した。自嘲的な響きがあり、「氪一単」のように薬物めいた冗談にも使う。対義は無課金プレイの「白嫖」。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Universal among Chinese mobile gamers.", "zh": "中文手游玩家通用词。", "ja": "中国語圏のモバイルゲーマーに広く通用。" } },
+      { "lang": "ja", "note": { "en": "The source word is 課金 (kakin). 無課金 = free-to-play.", "zh": "词源是日语「課金」，不花钱叫「無課金」。", "ja": "語源は「課金」。無課金＝F2P。" } },
+      { "lang": "en", "note": { "en": "\"Whaling\", \"spending on pulls\", \"P2W\". No element named.", "zh": "英文说 whaling、spending on pulls、P2W，不提元素。", "ja": "英語では whaling や P2W。" } }
+    ],
+    "example": {
+      "text": "白嫖了两年，这次限定终于氪了一单。",
+      "translation": { "en": "\"Two years free-to-play, and I finally paid for one pull on this limited banner.\"", "zh": "「白嫖了两年，这次限定终于充了一单。」" },
+      "source": "游戏社区"
+    },
+    "category": "gaming",
+    "tags": ["gacha", "money", "false-friend"],
+    "related": ["gan", "baodi", "ou-fei"],
+    "sensitivity": "safe",
+    "first_seen": "中文手游圈, ~2014",
+    "status": "verified"
+  },
+  {
+    "id": "ou-fei",
+    "term": "欧 / 非",
+    "aliases": ["欧皇", "非酋", "欧气", "非", "欧", "oupi", "feiqiu"],
+    "reading": "ōu / fēi",
+    "source_language": "zh",
+    "machine_translation": "Europe / Africa",
+    "real_meaning": {
+      "en": "Lucky / unlucky at gacha pulls.",
+      "zh": "抽卡运气好 / 运气差。",
+      "ja": "ガチャ運が良い／悪い。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "A 欧皇 (\"European emperor\") is someone who always gets the rare pull. A 非酋 (\"African chieftain\") never does. It is purely about luck in a game — nothing to do with real places or people, and Chinese players do not read it as a statement about anyone.",
+        "zh": "「欧皇」指抽卡总能出货的人，「非酋」指怎么抽都不出的人。纯粹说游戏运气，和真实的地方或人无关。",
+        "ja": "「欧皇」は当たりを引き続ける人、「非酋」は全く出ない人。あくまでゲーム運の話。"
+      },
+      "full": {
+        "en": "The pair came from a Chinese internet joke about \"European emperors\" versus \"African chieftains\" and spread through gacha communities as the standard way to talk about RNG. Derived forms are everywhere: 欧气 (luck as a substance), 转欧 (turning your luck around), 非到极致 (unlucky beyond belief). Worth flagging for outsiders: the imagery reads very differently in English, so this is a term to explain rather than export.",
+        "zh": "这对词来自中文网络上「欧洲皇帝 vs 非洲酋长」的玩笑，在抽卡社区里成了讨论随机性的标准说法。衍生词很多：欧气、转欧、非到极致。要提醒圈外人的是，这组意象在英文语境里观感很不一样，所以它是需要解释、而不是直接输出的词。",
+        "ja": "中国のネットジョークに由来し、ガチャ community で乱数を語る定番表現になった。「欧気」「転欧」など派生語も多い。英語圏では受け取られ方が大きく異なるため、輸出せず説明すべき語。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Extremely common, purely about RNG.", "zh": "极其常用，纯指随机性。", "ja": "非常によく使われ、乱数の話に限られる。" } },
+      { "lang": "ja", "note": { "en": "Japanese has no equivalent pair; players just say 引きが強い / 爆死.", "zh": "日语没有这组对应词，只说「引きが強い」「爆死」。", "ja": "対応語はなく「引きが強い」「爆死」と言う。" } },
+      { "lang": "en", "note": { "en": "English says \"lucky\" / \"cursed\" / \"my RNG is awful\". The Chinese imagery does not translate and can land badly — use the plain words instead.", "zh": "英文说 lucky / cursed / my RNG is awful。中文那组意象不能直译，观感可能很差，对外就用大白话。", "ja": "英語では lucky / cursed と言う。中国語の比喩は直訳しない方がよい。" } }
+    ],
+    "example": {
+      "text": "十连双金，你也太欧了吧。",
+      "translation": { "en": "\"Two five-stars in one ten-pull — your luck is unreal.\"", "zh": "「十连出两个金，你运气也太好了吧。」" },
+      "source": "游戏群聊"
+    },
+    "category": "gaming",
+    "tags": ["gacha", "luck", "translate-with-care"],
+    "related": ["gan", "kejin", "baodi"],
+    "sensitivity": "mild",
+    "first_seen": "中文游戏圈, ~2015",
+    "status": "verified"
+  },
+  {
+    "id": "baodi",
+    "term": "保底",
+    "aliases": ["pity", "天井", "小保底", "大保底", "baodi"],
+    "reading": "bǎo dǐ",
+    "source_language": "zh",
+    "machine_translation": "guarantee the bottom",
+    "real_meaning": {
+      "en": "The pity system — a guaranteed rare pull after enough failures.",
+      "zh": "保底机制：抽够一定次数必出稀有。",
+      "ja": "天井システム。一定回数で確定入手できる仕組み。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Most gacha games promise that if you fail enough times in a row, the next pull is guaranteed to be rare. Chinese players call this 保底; Japanese players call it 天井 (\"ceiling\"); English players call it pity.",
+        "zh": "大多数抽卡游戏承诺：连续没出货到一定次数后，下一次必出稀有。中文叫「保底」，日语叫「天井」，英文叫 pity。",
+        "ja": "多くのガチャは一定回数外れると次で確定になる。中国語で「保底」、日本語で「天井」、英語で pity。"
+      },
+      "full": {
+        "en": "The same mechanic has three different metaphors in three languages, which makes it a neat illustration of why literal translation fails: Chinese frames it as a floor you cannot fall below (保底), Japanese as a ceiling you cannot rise above (天井), English as mercy from the game (pity). 小保底 / 大保底 distinguish the soft guarantee from the hard one on limited banners.",
+        "zh": "同一个机制在三种语言里用了三个不同的比喻，正好说明为什么直译会失败：中文把它想成掉不下去的地板（保底），日语想成升不上去的天花板（天井），英文想成游戏发的慈悲（pity）。限定池里还分小保底和大保底。",
+        "ja": "同じ仕組みが三言語で異なる比喩を持つ好例。中国語は落ちない床、日本語は超えられない天井、英語はゲームからの慈悲。限定では小保底・大保底の区別がある。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "保底 — a floor you cannot fall below.", "zh": "保底——掉不下去的底线。", "ja": "「保底」＝落ちない床。" } },
+      { "lang": "ja", "note": { "en": "天井 — a ceiling you cannot exceed.", "zh": "天井——超不过去的上限。", "ja": "「天井」＝超えられない上限。" } },
+      { "lang": "en", "note": { "en": "pity — mercy granted by the game.", "zh": "pity——游戏发的慈悲。", "ja": "pity＝ゲームからの慈悲。" } }
+    ],
+    "example": {
+      "text": "还差二十抽到保底，忍住别氪。",
+      "translation": { "en": "\"Twenty pulls from pity — hold out, don't spend.\"", "zh": "「还差二十抽到保底，忍住别充钱。」" },
+      "source": "游戏群聊"
+    },
+    "category": "gaming",
+    "tags": ["gacha", "mechanic", "cross-language"],
+    "related": ["kejin", "ou-fei", "gan"],
+    "sensitivity": "safe",
+    "first_seen": "中文手游圈, ~2016",
+    "status": "verified"
+  },
+  {
+    "id": "oshi",
+    "term": "推し",
+    "aliases": ["oshi", "推", "本命", "推す", "single-oshi", "推しごと"],
+    "reading": "oshi / おし",
+    "source_language": "ja",
+    "machine_translation": "push",
+    "real_meaning": {
+      "en": "The one you support above all others — your favourite.",
+      "zh": "你最想应援、最本命的那一个。",
+      "ja": "一番応援している対象。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "From 推す, \"to push (someone) forward\" — to recommend and support them. Your 推し is the idol, character or VTuber you champion. It is stronger than \"favourite\": it implies you actively spend time and money supporting them.",
+        "zh": "来自动词「推す」，意思是把某人推举出去、支持他。你的「推し」就是你应援的偶像、角色或 VTuber。它比「最喜欢」更重，隐含你真的在花时间和钱支持。",
+        "ja": "「推す」から。応援している対象を指す。単なる「好き」より重く、実際に時間や金銭を投じるニュアンスを含む。"
+      },
+      "full": {
+        "en": "推し is the organising concept of modern idol and VTuber fandom, and it has generated a whole vocabulary: 単推し (supporting exactly one), 箱推し (supporting the whole group), 推し変 (switching), 推し活 (the activity of supporting), 同担 (a fan of the same oshi). Understanding 推し is the key that unlocks most of the Fandom category — many terms only make sense once you know that supporting one specific person is treated as an identity.",
+        "zh": "「推し」是现代偶像与 VTuber 粉丝文化的核心概念，衍生出一整套词汇：単推し（只推一个）、箱推し（整个团都推）、推し変（换推）、推し活（应援活动）、同担（推同一个人的粉丝）。理解了推し，Fandom 这一类的词就通了大半——很多词只有在「支持某一个人」被当成一种身份之后才讲得通。",
+        "ja": "「推し」は現代のアイドル・VTuber文化の中心概念で、単推し・箱推し・推し変・推し活・同担など多くの派生語を生んだ。この語を理解するとファンダム語彙の大半が繋がる。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Core vocabulary. Everyone knows it, including non-fans.", "zh": "核心词汇，连非粉丝也都知道。", "ja": "非ファンにも通じる基本語。" } },
+      { "lang": "zh", "note": { "en": "Borrowed directly as 推; the older native equivalent is 本命.", "zh": "直接借用成「推」，本土的老说法是「本命」。", "ja": "「推」として借用。従来語は「本命」。" } },
+      { "lang": "en", "note": { "en": "\"Bias\" (from K-pop) is the closest fit; \"fave\" is weaker.", "zh": "最接近的是 K-pop 来的 bias；fave 语气弱一些。", "ja": "英語圏では bias が最も近い。" } }
+    ],
+    "example": {
+      "text": "推しが尊すぎて今日も仕事が手につかない。",
+      "translation": { "en": "\"My oshi is too precious — I can't focus on work again today.\"", "zh": "「我推太美好了，今天又没法工作了。」" },
+      "source": "X (Twitter)"
+    },
+    "category": "fandom",
+    "tags": ["idol", "identity", "false-friend"],
+    "related": ["dotan-kyohi", "paqiang", "numa"],
+    "sensitivity": "safe",
+    "first_seen": "日本のアイドル文化, 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "dotan-kyohi",
+    "term": "同担拒否",
+    "aliases": ["dotan kyohi", "どうたんきょひ", "同担", "同推"],
+    "reading": "dōtan kyohi / どうたんきょひ",
+    "source_language": "ja",
+    "machine_translation": "refusal of the same burden",
+    "real_meaning": {
+      "en": "Not wanting to interact with other fans of the same oshi.",
+      "zh": "不愿意和推同一个人的粉丝来往。",
+      "ja": "同じ推しのファンとの交流を避けること。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "同担 means \"a fan of the same person as me\". 同担拒否 means someone would rather not follow or talk with those fans. It is usually stated politely in a profile so nobody takes it personally.",
+        "zh": "「同担」指和我推同一个人的粉丝。「同担拒否」意思是不希望和这类粉丝互关、来往。通常会礼貌地写在个人简介里，免得别人误会。",
+        "ja": "「同担」は同じ推しのファン。「同担拒否」はその人たちとの交流を望まないこと。プロフィールに丁寧に明記するのが普通。"
+      },
+      "full": {
+        "en": "The feeling behind it ranges from mild — comparison makes fandom stressful — to a possessive sense that the oshi is \"mine\". Neither is treated as scandalous; declaring it is considered the responsible thing to do, in the same family of etiquette as 地雷 tagging. The opposite is 同担歓迎 (\"same-oshi fans welcome\"). This term is a good demo case because machine translation produces something completely meaningless from characters that individually look ordinary.",
+        "zh": "背后的心情从轻微（互相比较让追星变得有压力）到强烈的占有感（推是我的）都有。两种都不算丑闻，主动声明反而被视为负责任，和打地雷标属于同一套礼仪。反面是「同担歓迎」。这个词很适合做演示，因为每个字单看都平平无奇，机翻却会给出完全不知所云的结果。",
+        "ja": "背景の感情は「比較が辛い」から独占欲まで幅がある。いずれも咎められるものではなく、明示すること自体が礼儀とされ、地雷タグと同系統のマナー。対義は「同担歓迎」。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "A standard line in fan profiles.", "zh": "粉丝简介里的标准写法。", "ja": "ファンのプロフィールでの定型表現。" } },
+      { "lang": "zh", "note": { "en": "Borrowed as 同担拒否 or rendered 拒绝同推.", "zh": "直接借用，或写成「拒绝同推」。", "ja": "そのまま借用、または「拒绝同推」。" } },
+      { "lang": "en", "note": { "en": "No single word. English fans say \"I don't really interact with other stans of him\".", "zh": "英文没有对应单词，只能说 I don't really interact with other stans of him。", "ja": "英語に単語はなく、説明的に言うしかない。" } }
+    ],
+    "example": {
+      "text": "同担拒否ではないので気軽にフォローしてください。",
+      "translation": { "en": "\"I'm fine with fans of the same oshi, so please feel free to follow.\"", "zh": "「我不拒同担，欢迎随意关注。」" },
+      "source": "X プロフィール"
+    },
+    "category": "fandom",
+    "tags": ["etiquette", "boundaries", "untranslatable"],
+    "related": ["oshi", "jirai", "quandi-zimeng"],
+    "sensitivity": "safe",
+    "first_seen": "日本のアイドル文化, 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "numa",
+    "term": "沼",
+    "aliases": ["numa", "ぬま", "沼落ち", "入坑", "swamp", "坑"],
+    "reading": "numa / ぬま",
+    "source_language": "ja",
+    "machine_translation": "swamp / marsh",
+    "real_meaning": {
+      "en": "A fandom you sink into and cannot climb out of.",
+      "zh": "一入坑就爬不出来的那种圈子。",
+      "ja": "一度はまると抜け出せないジャンルのこと。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Calling a series a 沼 means it swallows your time and money. 沼落ち means \"I've fallen in\". It is said cheerfully — being stuck is the fun part.",
+        "zh": "把某部作品叫「沼」，意思是它会吞掉你的时间和钱。「沼落ち」就是「我掉进去了」。说的时候语气是开心的——陷进去正是乐趣所在。",
+        "ja": "作品を「沼」と呼ぶのは、時間もお金も吸い取られるという意味。「沼落ち」は落ちたということ。抜けられないこと自体を楽しむ語感。"
+      },
+      "full": {
+        "en": "沼 frames fandom as terrain rather than preference: you do not choose a series, you fall into it. Chinese fandom uses the parallel 坑 (\"pit\") with the same logic — 入坑 (fall in), 退坑 (climb out), 弃坑 (abandon it). Both languages independently landed on a hole in the ground as the metaphor for getting into something, which makes the pair a nice cross-cultural example.",
+        "zh": "「沼」把入坑说成地形而不是偏好：不是你选择了一部作品，是你掉了进去。中文用平行的「坑」，逻辑一样——入坑、退坑、弃坑。两种语言各自独立地选择了「地上的一个洞」来比喻迷上某样东西，是很好的跨文化例子。",
+        "ja": "「沼」は嗜好ではなく地形として趣味を語る比喩。中国語も同じ発想で「坑」を使い、入坑・退坑・弃坑と言う。両言語が独立に「地面の穴」に行き着いた好例。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "沼 (swamp) — you sink.", "zh": "沼（沼泽）——往下陷。", "ja": "沼＝沈む。" } },
+      { "lang": "zh", "note": { "en": "坑 (pit) — you fall in, and you can climb out again (退坑).", "zh": "坑——掉进去，也可以爬出来（退坑）。", "ja": "坑＝落ちる。退坑で出ることもできる。" } },
+      { "lang": "en", "note": { "en": "\"Rabbit hole\" — same idea, from Alice rather than geography.", "zh": "英文说 rabbit hole，想法一样，只是出自爱丽丝而不是地理。", "ja": "英語では rabbit hole。" } }
+    ],
+    "example": {
+      "text": "友達に勧められて一話だけ見たら、完全に沼だった。",
+      "translation": { "en": "\"A friend told me to watch one episode. Now I'm completely gone.\"", "zh": "「朋友让我看一集，结果我彻底入坑了。」" },
+      "source": "X (Twitter)"
+    },
+    "category": "fandom",
+    "tags": ["metaphor", "cross-language"],
+    "related": ["oshi", "paqiang", "tafang"],
+    "sensitivity": "safe",
+    "first_seen": "日本のオタク文化, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "tafang",
+    "term": "塌房",
+    "aliases": ["塌房了", "房塌了", "tafang", "脱粉"],
+    "reading": "tā fáng",
+    "source_language": "zh",
+    "machine_translation": "the house collapsed",
+    "real_meaning": {
+      "en": "Your idol got caught in a scandal, and the fandom is falling apart.",
+      "zh": "偶像爆出丑闻，粉丝圈崩塌。",
+      "ja": "推しがスキャンダルを起こし、ファンダムが崩壊すること。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Fans describe the community around an idol as a house they live in. When the idol does something that breaks fans' trust, the house collapses — 塌房. What follows is usually 脱粉 (leaving the fandom).",
+        "zh": "粉丝把偶像周围的圈子想象成自己住的房子。偶像做了辜负粉丝信任的事，房子就塌了——塌房。之后通常是脱粉。",
+        "ja": "ファンは推しを中心とした場を「家」と捉える。推しが信頼を裏切ると家が崩れる＝塌房。その後たいてい「脱粉」（ファンをやめる）に至る。"
+      },
+      "full": {
+        "en": "塌房 names something English fandom has no compact word for: the collective grief and social collapse of a fan community, distinct from the scandal itself. The metaphor extends — 房子很稳 means the idol is behaving, 我房塌了 is a personal announcement of heartbreak. Because it describes fans' experience rather than the idol's action, translating it as \"scandal\" loses the point entirely.",
+        "zh": "「塌房」命名了英文同人圈没有对应短词的东西：粉丝群体的集体伤心与社群崩解，和丑闻本身是两回事。这个比喻还能延伸——「房子很稳」指偶像很安分，「我房塌了」是一句个人的心碎宣告。因为它描述的是粉丝的体验而不是偶像的行为，翻成 scandal 就完全丢掉了重点。",
+        "ja": "「塌房」はスキャンダルそのものではなく、ファン共同体の喪失感と崩壊を指す語で、英語に短い対応語がない。「房子很稳」（推しが安泰）などの派生もある。scandal と訳すと要点が失われる。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Extremely common in idol and celebrity fandom.", "zh": "在偶像和明星粉圈里极常见。", "ja": "アイドル・芸能ファンダムで頻出。" } },
+      { "lang": "ja", "note": { "en": "Japanese says 炎上 (the scandal) or 担降り (leaving your oshi) — two separate words.", "zh": "日语用「炎上」（丑闻本身）和「担降り」（脱粉）两个分开的词。", "ja": "日本語では「炎上」「担降り」と別々に言う。" } },
+      { "lang": "en", "note": { "en": "\"He got cancelled\" covers the event but not the fans' grief.", "zh": "英文 he got cancelled 说的是事件，说不出粉丝那份难过。", "ja": "英語の cancelled は出来事のみでファンの心情を含まない。" } }
+    ],
+    "example": {
+      "text": "本来今年最期待他的新剧，结果直接塌房，粉籍不要了。",
+      "translation": { "en": "\"His new show was my most anticipated of the year, then the whole thing blew up. I'm out of the fandom.\"", "zh": "「本来今年最期待他的新剧，结果直接塌房，我脱粉了。」" },
+      "source": "微博"
+    },
+    "category": "fandom",
+    "tags": ["scandal", "community", "false-friend"],
+    "related": ["paqiang", "oshi", "numa"],
+    "sensitivity": "safe",
+    "first_seen": "中文饭圈, ~2018",
+    "status": "verified"
+  },
+  {
+    "id": "paqiang",
+    "term": "爬墙",
+    "aliases": ["爬墙了", "推し変", "oshihen", "移情别恋", "paqiang"],
+    "reading": "pá qiáng",
+    "source_language": "zh",
+    "machine_translation": "climb over the wall",
+    "real_meaning": {
+      "en": "Switching your favourite — moving your love to a new character or idol.",
+      "zh": "换推、移情，把喜欢转移到新的角色或偶像身上。",
+      "ja": "推し変。応援対象を別の相手に変えること。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "If you used to love one character and now love another, you 爬墙 — you climbed over the wall into someone else's yard. It is said jokingly, often with fake guilt.",
+        "zh": "以前喜欢一个角色，现在喜欢另一个，就叫爬墙——翻墙翻到别人家院子里去了。说的时候是开玩笑，常带假装的愧疚。",
+        "ja": "以前の推しから別の推しへ乗り換えること。冗談めかして、罪悪感を装って言うことが多い。"
+      },
+      "full": {
+        "en": "The Japanese equivalent 推し変 is neutral and administrative — you changed which person you support. The Chinese 爬墙 borrows the imagery of infidelity, so it carries a playful whiff of betrayal that 推し変 does not. Same event, different emotional colour: a good illustration of why a wiki needs the cultural note and not just the gloss.",
+        "zh": "日语的「推し変」是中性的、事务性的——你换了应援对象。中文的「爬墙」借用了出轨的意象，因此带着一点玩笑式的背叛感，这是「推し変」没有的。同一件事，情绪色彩不同：正好说明为什么词条需要文化注释而不只是对译。",
+        "ja": "日本語の「推し変」は中立的だが、中国語の「爬墙」は浮気の比喩を借りるため、冗談めいた裏切りの色を帯びる。同じ行為でも感情の色が異なる好例。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "爬墙 — borrowed from infidelity. Playfully guilty.", "zh": "爬墙——借自出轨的意象，带玩笑式的愧疚。", "ja": "爬墙＝浮気の比喩。" } },
+      { "lang": "ja", "note": { "en": "推し変 — neutral, no guilt implied.", "zh": "推し変——中性，不含愧疚。", "ja": "推し変＝中立的。" } },
+      { "lang": "en", "note": { "en": "\"I have a new bias\" / \"bias wrecker\" (the one who caused it).", "zh": "英文说 I have a new bias，把你带跑的那个叫 bias wrecker。", "ja": "英語では new bias、bias wrecker。" } }
+    ],
+    "example": {
+      "text": "本来死守初心的，结果第三集一出场我就爬墙了。",
+      "translation": { "en": "\"I swore I'd stay loyal, then he showed up in episode three and that was that.\"", "zh": "「本来死守初心的，结果第三集他一出场我就变心了。」" },
+      "source": "B站 评论区"
+    },
+    "category": "fandom",
+    "tags": ["metaphor", "false-friend", "cross-language"],
+    "related": ["oshi", "tafang", "numa"],
+    "sensitivity": "safe",
+    "first_seen": "中文饭圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "quandi-zimeng",
+    "term": "圈地自萌",
+    "aliases": ["圈地", "自萌", "quandi zimeng", "不要外溢"],
+    "reading": "quān dì zì méng",
+    "source_language": "zh",
+    "machine_translation": "enclose land and sprout by oneself",
+    "real_meaning": {
+      "en": "Keep fandom content inside the fandom; don't push it on outsiders.",
+      "zh": "在圈内自娱自乐，别外溢到路人和当事人面前。",
+      "ja": "同好の内輪で楽しみ、外部に持ち出さないこと。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "A rule Chinese fandom sets for itself: enjoy your ships and fan works inside fan spaces, tagged and locked, and do not send them to actors, official accounts or people who did not ask. Breaking it is called 外溢 (\"spilling out\").",
+        "zh": "中文同人圈给自己定的规矩：CP 和同人作品在圈内玩，打好标、设好权限，不要发给演员、官方或没兴趣的人。破坏这条规矩叫「外溢」。",
+        "ja": "中国語圏ファンダムの自主ルール。二次創作は内輪の場でタグ付きで楽しみ、俳優や公式、無関係な人に見せない。逸脱は「外溢」と呼ばれる。"
+      },
+      "full": {
+        "en": "圈地自萌 is fandom's own answer to the question of how a subculture coexists with the mainstream. It is not modesty or shame — it is a boundary that protects both sides: outsiders are not confronted with content they did not consent to, and the fandom is not dragged into public scrutiny. For the parent audience this term is unusually useful, because it explains why their child's online world looks deliberately closed off. It is not secrecy; it is etiquette.",
+        "zh": "「圈地自萌」是同人圈自己给出的答案：一个亚文化如何与主流共处。它不是自卑或羞耻，而是一条双向保护的边界——圈外人不会被迫看到没有同意看的内容，圈内也不会被拖到公众视线下审判。对家长这个群体来说这个词特别有用，因为它解释了为什么孩子的网络世界看起来是刻意封闭的：那不是隐瞒，是礼仪。",
+        "ja": "「圈地自萌」はサブカルチャーが主流社会と共存するための、ファンダム自身の答え。卑下ではなく双方を守る境界であり、外部は望まぬ内容に晒されず、内部も公の批判に晒されない。子どものネット世界が閉じて見える理由を説明する語でもある。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "A widely agreed norm, often written in profiles and work headers.", "zh": "广泛认同的规范，常写在简介和作品开头。", "ja": "広く共有された規範。" } },
+      { "lang": "ja", "note": { "en": "Japanese phrases it as 検索避け and 公式に見せない.", "zh": "日语的说法是「検索避け」和「公式に見せない」。", "ja": "「検索避け」「公式に見せない」に相当。" } },
+      { "lang": "en", "note": { "en": "Closest is \"don't show fanworks to the actors\" plus AO3's opt-in tagging culture.", "zh": "英文最接近的是 don't show fanworks to the actors，加上 AO3 的自选标签文化。", "ja": "英語圏では AO3 のタグ文化と俳優に見せない規範が近い。" } }
+    ],
+    "example": {
+      "text": "喜欢就好好圈地自萌，别跑去人家正主底下刷。",
+      "translation": { "en": "\"If you love it, keep it in fan spaces — don't go post it under the real person's account.\"", "zh": "「喜欢就在圈里玩，别跑去当事人账号底下刷。」" },
+      "source": "同人圈 公约"
+    },
+    "category": "fandom",
+    "tags": ["etiquette", "boundaries", "for-parents"],
+    "related": ["jirai", "dotan-kyohi", "ke-cp"],
+    "sensitivity": "safe",
+    "first_seen": "中文同人圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "ke-cp",
+    "term": "磕 CP",
+    "aliases": ["磕", "磕到了", "嗑CP", "嗑", "ke cp", "上头"],
+    "reading": "kē CP",
+    "source_language": "zh",
+    "machine_translation": "knock CP / crack CP",
+    "real_meaning": {
+      "en": "To ship a pairing intensely — the way you'd consume something addictive.",
+      "zh": "疯狂地磕一对 CP，像嗑药那样上头。",
+      "ja": "カップリングに激しくハマること。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "CP means \"couple pairing\". 磕 is the verb for consuming something addictive. Put together it means loving a pairing so much it feels like a habit you cannot quit. 磕到了 means \"that scene fed me\".",
+        "zh": "CP 就是 couple pairing。「磕」是嗑（药）那个动作。合起来就是喜欢一对到停不下来的程度。「磕到了」意思是「这段太好嗑了」。",
+        "ja": "CP はカップリング。「磕」は中毒性のあるものを摂取する動作。合わせて、やめられないほどカップリングにハマること。"
+      },
+      "full": {
+        "en": "The addiction metaphor runs all the way through Chinese shipping vocabulary: a pairing is 粮 (food) that creators 产 (produce), fans 磕 it, and a dry spell is 没粮吃 (\"nothing to eat\"). None of it is about drugs literally; it is about how supply and appetite structure a fandom. 官配 is the canon pairing, 逆CP is the same two characters in the opposite order — and to many fans that reversal is a different ship entirely, which outsiders consistently underestimate.",
+        "zh": "这个「上瘾」的比喻贯穿整套中文 CP 词汇：一对 CP 是「粮」，创作者「产粮」，粉丝「磕」，断更就是「没粮吃」。这些都不是真在说药，而是在说供给和胃口如何构成一个圈子。「官配」指官方配对，「逆CP」是同样两个人换个顺序——对很多人来说那是完全不同的一对，圈外人经常低估这一点。",
+        "ja": "この中毒の比喩は中国語のCP語彙全体を貫く。CPは「粮」（食料）で、作者が「産粮」し、ファンが「磕」み、供給が止まると「没粮吃」。「官配」は公式カプ、「逆CP」は順序を入れ替えたもので、多くのファンにとって全く別のCPである。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "磕 CP, 产粮, 没粮吃 — one consistent food-and-appetite metaphor.", "zh": "磕CP、产粮、没粮吃——一整套关于食物与胃口的比喻。", "ja": "磕CP・産粮・没粮吃という一貫した比喩体系。" } },
+      { "lang": "ja", "note": { "en": "Japanese says カプ (from couple) and 尊い for the same feeling.", "zh": "日语说「カプ」，那种感觉用「尊い」表达。", "ja": "日本語では「カプ」、感情は「尊い」。" } },
+      { "lang": "en", "note": { "en": "\"Shipping\", \"I ship it\", \"they're feeding us\" — the food metaphor exists in English too.", "zh": "英文说 shipping、I ship it、they're feeding us——食物的比喻英文里也有。", "ja": "英語でも they're feeding us と食の比喩を使う。" } }
+    ],
+    "example": {
+      "text": "这段对视我能磕一整年，官方是懂产粮的。",
+      "translation": { "en": "\"I could live off that one look for a year. The studio knows exactly what it's feeding us.\"", "zh": "「这段对视我能磕一整年，官方是真懂产粮。」" },
+      "source": "微博 超话"
+    },
+    "category": "shipping",
+    "tags": ["shipping", "metaphor", "false-friend"],
+    "related": ["jirai", "kaishaku-chigai", "dao"],
+    "sensitivity": "safe",
+    "first_seen": "中文同人圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "kaishaku-chigai",
+    "term": "解釈違い",
+    "aliases": ["kaishaku chigai", "かいしゃくちがい", "解释不合", "解釈"],
+    "reading": "kaishaku-chigai / かいしゃくちがい",
+    "source_language": "ja",
+    "machine_translation": "interpretation mistake",
+    "real_meaning": {
+      "en": "Someone's reading of a character clashes with yours. Neither is wrong.",
+      "zh": "别人对角色的理解和你的冲突了，但没有谁是错的。",
+      "ja": "キャラ解釈が自分と食い違うこと。どちらが誤りというわけではない。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Fans build detailed mental models of how a character would behave. When someone writes that character acting in a way that contradicts your model, it feels wrong even though nobody broke a rule. That discomfort is 解釈違い.",
+        "zh": "粉丝会在心里给角色建立一套很细的行为逻辑。别人写的角色和你那套对不上时，你会觉得不对劲，尽管谁也没犯规。这种不适就是「解釈違い」。",
+        "ja": "ファンはキャラの行動原理を細かく脳内で作る。他人の描写がそれと食い違うと、誰も規則を破っていないのに違和感が生じる。それが解釈違い。"
+      },
+      "full": {
+        "en": "The word matters because it names the disagreement without assigning blame — the -違い ending says \"our readings differ\", not \"you got it wrong\". Compare OOC, which does accuse: OOC claims the writer departed from canon, while 解釈違い admits the standard being applied is personal. That distinction is real etiquette in Japanese fandom, and it is exactly the kind of nuance that survives no machine translation.",
+        "zh": "这个词的价值在于：它命名了分歧，却不分配过错——「違い」说的是「我们的解读不一样」，不是「你理解错了」。对比 OOC，那是真的在指控：OOC 说作者偏离了原作，而「解釈違い」承认自己用的标准是私人的。这个区别在日语圈是真实存在的礼仪，也正是机翻绝对留不住的那种细微差别。",
+        "ja": "この語の要点は、非を負わせずに相違を名指しすること。「違い」は「解釈が異なる」であって「間違い」ではない。OOC が原作からの逸脱を指摘する告発であるのに対し、解釈違いは自分の基準が私的であると認める点で異なる。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Standard, polite. Often given as a reason for unfollowing.", "zh": "标准且礼貌，常被用作取关的理由。", "ja": "標準的で丁寧。フォロー解除の理由としてもよく使われる。" } },
+      { "lang": "zh", "note": { "en": "Borrowed as 解释不合 / 解读不同; less established as etiquette.", "zh": "借用成「解释不合」「解读不同」，作为礼仪的确立程度不如日语圈。", "ja": "「解释不合」として借用されるが、規範としては日本ほど確立していない。" } },
+      { "lang": "en", "note": { "en": "\"That's not my characterisation\" — English usually frames it as OOC, which is more accusatory.", "zh": "英文说 that's not my characterisation，但通常直接说 OOC，语气更像指控。", "ja": "英語では OOC と言われがちで、より批判的。" } }
+    ],
+    "example": {
+      "text": "面白かったけど、ラストだけは解釈違いでした。",
+      "translation": { "en": "\"I enjoyed it, but the ending just wasn't my reading of him.\"", "zh": "「很好看，但结局那段和我的解读对不上。」" },
+      "source": "pixiv 感想"
+    },
+    "category": "shipping",
+    "tags": ["etiquette", "untranslatable", "characterisation"],
+    "related": ["ooc", "jirai", "ke-cp"],
+    "sensitivity": "safe",
+    "first_seen": "日本の二次創作界, 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "ooc",
+    "term": "OOC",
+    "aliases": ["ooc", "out of character", "崩人设", "崩了"],
+    "reading": "O-O-C",
+    "source_language": "en",
+    "machine_translation": "(left untranslated)",
+    "real_meaning": {
+      "en": "Out Of Character — the character is written acting unlike themselves.",
+      "zh": "Out Of Character，角色被写得不像本人了，人设崩了。",
+      "ja": "Out Of Character。キャラが本人らしくない言動をしている状態。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "A criticism of fan writing: this character would not say or do that. Writers often pre-empt it with a note — \"OOC警告\" or \"sorry for the OOC\" — before the story starts.",
+        "zh": "对同人作品的批评：这个角色不会说这种话、做这种事。作者常在开头先自己声明「OOC 预警」「OOC 抱歉」。",
+        "ja": "二次創作への批判で、「このキャラはそんなことを言わない」という指摘。作者が冒頭に「OOC注意」と予防線を張ることも多い。"
+      },
+      "full": {
+        "en": "OOC is one of the few pieces of fandom vocabulary that travelled from English into Chinese and Japanese fandom essentially unchanged, which makes it a useful anchor for cross-language fans. Chinese also has the native 崩人设 (\"the persona collapsed\"), used for real people and idols as well as fictional characters. Note the asymmetry with 解釈違い: OOC claims an objective standard from canon, 解釈違い concedes the standard is personal.",
+        "zh": "OOC 是少数几个从英文圈原样传入中日同人圈的词，因此对跨语言粉丝来说是个好锚点。中文另有本土说法「崩人设」，既用于虚构角色，也用于真人和偶像。注意它和「解釈違い」的不对称：OOC 主张一个来自原作的客观标准，「解釈違い」则承认标准是私人的。",
+        "ja": "OOC は英語圏からほぼそのまま中国語・日本語のファンダムに入った数少ない語で、言語をまたぐファンの共通の足場になる。中国語には「崩人设」という在来語もある。解釈違いとの非対称性に注意。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "en", "note": { "en": "Origin. Standard in fanfic warnings since the 1990s.", "zh": "词源在这里，1990 年代起就是同人预警的标准写法。", "ja": "語源。1990年代から二次創作の警告として標準。" } },
+      { "lang": "zh", "note": { "en": "Used as-is in Latin letters, alongside native 崩人设.", "zh": "直接用英文字母，也有本土的「崩人设」。", "ja": "英字のまま使用。「崩人设」も併用。" } },
+      { "lang": "ja", "note": { "en": "Used as-is; also キャラ崩壊.", "zh": "直接用，也说「キャラ崩壊」。", "ja": "そのまま使用。「キャラ崩壊」とも。" } }
+    ],
+    "example": {
+      "text": "OOC 预警，接受不了的请点叉，谢谢。",
+      "translation": { "en": "\"OOC warning — if that's not for you, please close the tab. Thanks.\"", "zh": "「OOC 预警，接受不了的请点叉，谢谢。」" },
+      "source": "Lofter 作品前言"
+    },
+    "category": "creation",
+    "tags": ["fanfic", "warning", "loanword"],
+    "related": ["kaishaku-chigai", "taitai", "dao"],
+    "sensitivity": "safe",
+    "first_seen": "English fandom, 1990s",
+    "status": "verified"
+  },
+  {
+    "id": "dao",
+    "term": "刀",
+    "aliases": ["发刀", "吃刀", "刀子", "knife", "刀了", "捅刀"],
+    "reading": "dāo",
+    "source_language": "zh",
+    "machine_translation": "knife",
+    "real_meaning": {
+      "en": "Content written to emotionally devastate you, on purpose.",
+      "zh": "故意写来让你心痛的虐向内容。",
+      "ja": "意図的に読者を精神的に打ちのめす鬱展開の作品。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "If a story hurts, fans say the author 发刀 — handed out knives. Readers 吃刀 — eat the knife. It is a compliment: being hurt by a story means the story worked.",
+        "zh": "如果一篇文很虐，读者会说作者「发刀」，自己「吃刀」。这是夸奖——被虐到说明写得好。",
+        "ja": "つらい展開の作品について、作者が「発刀」し読者が「吃刀」すると言う。刺さったということで、褒め言葉。"
+      },
+      "full": {
+        "en": "刀 pairs with 糖 (sugar) as the two poles of fan fiction: 糖 is fluff that makes you happy, 刀 is angst that makes you cry, and 先甜后刀 (\"sugar first, knife later\") describes the classic structure that hurts most. Sub-vocabulary includes 钝刀 (a slow blunt knife — quiet lingering sadness) and 一刀入魂 (one clean strike). English fandom's \"angst\" and \"whump\" cover the territory but lack the sweet/sharp symmetry.",
+        "zh": "「刀」和「糖」是同人文的两极：糖是让你开心的甜文，刀是让你哭的虐文，「先甜后刀」描述的是最疼的那种经典结构。还有细分：钝刀（慢慢磨，绵长的难过）、一刀入魂（一击致命）。英文的 angst 和 whump 覆盖了这块地，但没有甜与利这一对称。",
+        "ja": "「刀」は「糖」（甘い展開）と対をなす二極で、「先甜后刀」は最も刺さる構成を指す。「鈍刀」「一刀入魂」などの細分もある。英語の angst や whump は近いが、甘さと鋭さの対称性は持たない。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "刀 / 糖 — a matched pair covering all of fan fiction's emotional range.", "zh": "刀 / 糖——一对词覆盖同人文的全部情绪光谱。", "ja": "刀と糖の対で感情の幅を表す。" } },
+      { "lang": "ja", "note": { "en": "Japanese says 鬱展開 (depressing development) or 尊死 for the good kind of pain.", "zh": "日语说「鬱展開」，那种痛并快乐着的叫「尊死」。", "ja": "日本語では「鬱展開」「尊死」。" } },
+      { "lang": "en", "note": { "en": "\"Angst\", \"whump\", \"pain\". \"Knife\" alone means nothing.", "zh": "英文说 angst、whump、pain。单说 knife 什么都不是。", "ja": "英語では angst や whump。knife だけでは通じない。" } }
+    ],
+    "example": {
+      "text": "前十章全是糖，最后一章直接发刀，作者你好狠。",
+      "translation": { "en": "\"Ten chapters of pure fluff and then she guts you in the last one. Author, how could you.\"", "zh": "「前十章全是甜的，最后一章直接开虐，作者你好狠。」" },
+      "source": "Lofter 评论"
+    },
+    "category": "creation",
+    "tags": ["fanfic", "genre", "false-friend"],
+    "related": ["tang", "huozangchang", "yinanping"],
+    "sensitivity": "safe",
+    "first_seen": "中文同人圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "tang",
+    "term": "糖",
+    "aliases": ["发糖", "吃糖", "糖分", "sugar", "甜文"],
+    "reading": "táng",
+    "source_language": "zh",
+    "machine_translation": "sugar / candy",
+    "real_meaning": {
+      "en": "Sweet, happy content about a pairing. Fluff.",
+      "zh": "甜蜜的、让人开心的 CP 内容。",
+      "ja": "カップリングの甘くて幸せな展開。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "When a series shows two characters being affectionate, fans say the studio 发糖 — handed out sweets. Fans 吃糖 — eat them. The opposite is 刀 (knife), content that hurts.",
+        "zh": "作品里两个角色互动很甜时，粉丝说官方「发糖」，自己「吃糖」。反面是「刀」，让人心痛的内容。",
+        "ja": "作品でキャラ同士が仲睦まじい場面があると、公式が「発糖」しファンが「吃糖」すると言う。対義は「刀」。"
+      },
+      "full": {
+        "en": "糖 completes the food metaphor that runs through Chinese shipping vocabulary — creators produce 粮 (food), the sweet kind is 糖, the painful kind is 刀, and fandom judges an episode by what it fed them. 官方发糖 (\"the studio handed out sweets\") is high praise, because it means canon itself gestured at the pairing rather than fans having to imagine it.",
+        "zh": "「糖」补完了贯穿中文 CP 词汇的食物比喻——创作者「产粮」，甜的那种是糖，疼的那种是刀，一集好不好，看它喂了什么。「官方发糖」是很高的评价，因为那意味着原作自己给了暗示，不用粉丝去脑补。",
+        "ja": "「糖」は中国語CP語彙の食の比喩を完成させる。作者が「粮」を産み、甘ければ糖、つらければ刀。「官方発糖」は公式自らが示唆したという最高の褒め言葉。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "糖 / 刀 as a pair; 官方发糖 is the highest compliment.", "zh": "糖 / 刀 成对使用，「官方发糖」是最高评价。", "ja": "糖と刀の対。「官方発糖」は最上級の賛辞。" } },
+      { "lang": "ja", "note": { "en": "Japanese uses 尊い or 供給 (\"supply\") for the same idea.", "zh": "日语用「尊い」或「供給」表达同一个意思。", "ja": "日本語では「尊い」「供給」。" } },
+      { "lang": "en", "note": { "en": "\"Fluff\", or \"the writers are feeding us\".", "zh": "英文说 fluff，或者 the writers are feeding us。", "ja": "英語では fluff。" } }
+    ],
+    "example": {
+      "text": "这集全是糖，官方是不是良心发现了。",
+      "translation": { "en": "\"This episode was nothing but fluff. Did the writers finally grow a conscience?\"", "zh": "「这集全是糖，官方是不是良心发现了。」" },
+      "source": "B站 弹幕"
+    },
+    "category": "creation",
+    "tags": ["fanfic", "genre", "false-friend"],
+    "related": ["dao", "ke-cp", "huozangchang"],
+    "sensitivity": "safe",
+    "first_seen": "中文同人圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "huozangchang",
+    "term": "火葬场",
+    "aliases": ["追妻火葬场", "火葬场文学", "crematorium", "追妻"],
+    "reading": "huǒ zàng chǎng",
+    "source_language": "zh",
+    "machine_translation": "crematorium",
+    "real_meaning": {
+      "en": "A story genre where the one who caused the hurt spends the rest of it regretting.",
+      "zh": "一种文体：伤害了对方的人，后半程一路后悔追妻。",
+      "ja": "傷つけた側が延々と後悔し追いかける、いわゆる追妻ジャンル。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "In these stories one character treats the other badly, the other finally leaves, and then the first one spends the whole second half regretting it and trying to win them back. Readers read it precisely for that regret.",
+        "zh": "这类故事里，一方先辜负了另一方，另一方终于离开，然后前者用整个后半程后悔、追回。读者要看的就是这份后悔。",
+        "ja": "一方が相手をないがしろにし、相手が去った後、延々と後悔して追いかける物語。読者はその後悔を味わうために読む。"
+      },
+      "full": {
+        "en": "The name comes from 追妻火葬场 — \"chasing the wife through the crematorium\" — where the crematorium is the emotional state of the person doing the chasing: they have burned everything and are living in the ashes. It is one of the most productive genre labels in Chinese web fiction and fanfic, sitting on the 刀 (knife) side of the spectrum but with a promise of eventual reconciliation, which is why readers seek it out rather than avoiding it.",
+        "zh": "名字来自「追妻火葬场」——火葬场指的是追的那个人自己的心境：他把一切都烧了，现在住在灰里。这是中文网文和同人里最高产的类型标签之一，属于「刀」那一侧，但附带最终和解的承诺，所以读者是主动去找它，而不是躲它。",
+        "ja": "「追妻火葬場」に由来し、火葬場とは追う側の心境そのもの——すべてを燃やし尽くし灰の中にいる状態を指す。刀寄りのジャンルだが最終的な和解が約束されるため、読者は避けずに求める。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "A major genre tag on web fiction and fanfic platforms.", "zh": "网文和同人平台上的主流类型标签。", "ja": "ウェブ小説・二次創作の主要ジャンルタグ。" } },
+      { "lang": "ja", "note": { "en": "No single label; described as 後悔系 or ざまぁ-adjacent depending on the ending.", "zh": "日语没有单一标签，视结局说成「後悔系」或接近「ざまぁ」。", "ja": "単一の呼称はなく「後悔系」などと表現される。" } },
+      { "lang": "en", "note": { "en": "\"Grovelling\" is the closest romance-genre term; \"regret fic\" also works.", "zh": "英文言情类型里最接近的是 grovelling，也可以说 regret fic。", "ja": "英語では grovelling が最も近い。" } }
+    ],
+    "example": {
+      "text": "这本是标准火葬场，男主后悔了整整二十章。",
+      "translation": { "en": "\"Textbook grovel fic — the male lead spends twenty solid chapters regretting it.\"", "zh": "「这本是标准的火葬场，男主后悔了整整二十章。」" },
+      "source": "晋江 / Lofter 标签"
+    },
+    "category": "creation",
+    "tags": ["genre", "web-fiction", "false-friend"],
+    "related": ["dao", "yinanping", "baiyueguang"],
+    "sensitivity": "safe",
+    "first_seen": "中文网文圈, 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "baiyueguang",
+    "term": "白月光",
+    "aliases": ["白月光", "朱砂痣", "bai yue guang", "moonlight"],
+    "reading": "bái yuè guāng",
+    "source_language": "zh",
+    "machine_translation": "white moonlight",
+    "real_meaning": {
+      "en": "The idealised first love you never got over — perfect because unreachable.",
+      "zh": "心里那个求而不得、被理想化的初恋或旧爱。",
+      "ja": "手に入らなかったからこそ美化され続ける、忘れられない相手。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "A character's 白月光 is the person they loved, lost, and never stopped comparing everyone else to. The moonlight is beautiful and cold and always out of reach.",
+        "zh": "一个角色的「白月光」，是他爱过、失去、之后拿谁都跟他比的那个人。月光很美，很冷，永远够不到。",
+        "ja": "愛して失い、その後も比較の基準であり続ける相手。月光は美しく冷たく、決して手が届かない。"
+      },
+      "full": {
+        "en": "The phrase comes from Eileen Chang's essay contrasting 白月光 (the idealised love, cool and distant) with 朱砂痣 (the vermilion mole — the one you actually got, who becomes ordinary once possessed). Fandom adopted the pair wholesale as a character-relationship shorthand. A literal translation gives you a weather report; the term only works if you carry the story that goes with it, which is exactly why a wiki entry beats a dictionary gloss.",
+        "zh": "这个说法出自张爱玲那段把「白月光」（理想化的、清冷遥远的爱）和「朱砂痣」（真正得到的那个，一旦拥有就变得平凡）对举的文字。同人圈整对借了过来，当作角色关系的速记。直译只会给你一句天气描述——这个词必须连着它背后的故事才成立，这正是词条比对译强的地方。",
+        "ja": "張愛玲の随筆で「白月光」（理想化された遠い愛）と「朱砂痣」（実際に得たがゆえに平凡になる相手）を対比したのが出典。ファンダムはこの対を関係性の略号として取り入れた。直訳では天気の描写にしかならない。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Literary origin, now everyday fandom vocabulary.", "zh": "出自文学，如今已是同人圈日常词汇。", "ja": "文学由来だが今や日常的なファンダム語。" } },
+      { "lang": "ja", "note": { "en": "No equivalent phrase; the archetype is described as 初恋の人 or 忘れられない人.", "zh": "日语没有对应说法，只能描述为「初恋の人」「忘れられない人」。", "ja": "対応表現はなく「初恋の人」等と説明する。" } },
+      { "lang": "en", "note": { "en": "\"The one that got away\" is close, but lacks the coolness and the 朱砂痣 counterpart.", "zh": "英文 the one that got away 接近，但少了那份清冷，也没有「朱砂痣」这个对照。", "ja": "英語の the one that got away が近いが、対の概念を欠く。" } }
+    ],
+    "example": {
+      "text": "他心里的白月光一直没变过，所以谁都没戏。",
+      "translation": { "en": "\"He never got over the one he lost, so nobody else ever stood a chance.\"", "zh": "「他心里那个人一直没变过，所以谁都没戏。」" },
+      "source": "同人 tag"
+    },
+    "category": "character",
+    "tags": ["archetype", "literary", "untranslatable"],
+    "related": ["yinanping", "huozangchang"],
+    "sensitivity": "safe",
+    "first_seen": "张爱玲《红玫瑰与白玫瑰》, 1944",
+    "status": "verified"
+  },
+  {
+    "id": "yinanping",
+    "term": "意难平",
+    "aliases": ["意难平", "yi nan ping", "遗憾"],
+    "reading": "yì nán píng",
+    "source_language": "zh",
+    "machine_translation": "meaning hard to level",
+    "real_meaning": {
+      "en": "A grievance about a story that you will never be able to put down.",
+      "zh": "对某个剧情或结局始终意难平、放不下的遗憾。",
+      "ja": "作品の結末などに対して、いつまでも収まらない心のわだかまり。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "When a character deserved better and the story did not give it to them, fans say 意难平. It is not anger at the writer — it is a permanent unsettled feeling about how things turned out.",
+        "zh": "某个角色本该有更好的结局，故事却没给，粉丝就说「意难平」。这不是对作者生气，而是一种对结局始终无法平复的心绪。",
+        "ja": "報われるべきキャラが報われなかったとき使う。作者への怒りではなく、結末に対して永久に収まらない感情。"
+      },
+      "full": {
+        "en": "意难平 is classical Chinese in register — literally \"the feeling cannot be levelled\" — which gives it a weight that modern slang does not have; fans reach for it when a loss feels dignified rather than merely annoying. It is the engine behind a lot of fan creation: 意难平 is why people write fix-it fics, and Chinese fandom explicitly frames rewriting an ending as 意难平 finally being 平.",
+        "zh": "「意难平」的语体是古典的——字面意思是「这口气平不下去」——因此带着现代网络语没有的分量；粉丝用它，是因为那份失落是庄重的，而不只是烦。它也是很多二创的动力源：正因为意难平，才会有人去写补完文，中文圈会明确地把改写结局说成「意难平终于平了」。",
+        "ja": "「意难平」は古典的な語感を持ち、単なる不満ではなく重みのある喪失感を表す。二次創作の原動力でもあり、結末を書き直すことは「意难平がようやく平らぐ」と語られる。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "Classical register, used sincerely rather than jokingly.", "zh": "语体偏古典，用起来是认真的，不是玩笑。", "ja": "古典的語感で、真剣に用いられる。" } },
+      { "lang": "ja", "note": { "en": "Closest is やるせない or 報われない.", "zh": "日语最接近的是「やるせない」「報われない」。", "ja": "「やるせない」「報われない」が近い。" } },
+      { "lang": "en", "note": { "en": "\"They deserved better\" is the functional equivalent, and it is why fix-it fics exist.", "zh": "英文的功能对应是 they deserved better，也正是 fix-it fic 存在的理由。", "ja": "英語では they deserved better。fix-it fic の動機。" } }
+    ],
+    "example": {
+      "text": "他这个结局我十年了还是意难平。",
+      "translation": { "en": "\"Ten years on and I still can't make peace with how his story ended.\"", "zh": "「他这个结局我十年了还是放不下。」" },
+      "source": "豆瓣 / 微博"
+    },
+    "category": "character",
+    "tags": ["emotion", "untranslatable", "classical"],
+    "related": ["baiyueguang", "dao", "huozangchang"],
+    "sensitivity": "safe",
+    "first_seen": "古典汉语，网络用法 2010s",
+    "status": "verified"
+  },
+  {
+    "id": "tsundere",
+    "term": "傲娇",
+    "aliases": ["tsundere", "ツンデレ", "つんでれ", "aojiao"],
+    "reading": "tsundere / ツンデレ · ào jiāo",
+    "source_language": "ja",
+    "machine_translation": "proud and delicate",
+    "real_meaning": {
+      "en": "Cold and prickly on the outside, soft underneath — and bad at admitting it.",
+      "zh": "嘴上凶巴巴，心里其实很在乎，就是不肯承认。",
+      "ja": "普段はツンツン、時折デレる性格類型。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "From ツン (tsun, cold and sharp) plus デレ (dere, lovestruck and soft). A tsundere character insults the person they like and then quietly does something kind for them. \"It's not like I did it for you!\" is the stock line.",
+        "zh": "由「ツン」（冷淡、带刺）和「デレ」（害羞、黏人）拼成。傲娇角色会对喜欢的人恶言相向，然后默默替他做好事。经典台词是「才、才不是为了你！」",
+        "ja": "「ツン」と「デレ」の合成語。好きな相手にきつく当たりながら、陰では優しくする類型。「べ、別にあんたのためじゃないんだから！」が定番。"
+      },
+      "full": {
+        "en": "傲娇 is the best-known member of a whole taxonomy of 属性 (character attributes) that fandom uses to describe personalities: ヤンデレ yandere (obsessive to the point of danger), クーデレ kuudere (cool and expressionless), 天然 (obliviously sweet). These attributes function as a shared shorthand — saying a character is a tsundere communicates an entire behavioural pattern in one word. Chinese calqued it as 傲娇, keeping the two-part structure exactly.",
+        "zh": "「傲娇」是同人圈用来描述性格的一整套「属性」体系里最有名的一个：还有病娇（占有欲强到危险）、冷娇（面无表情）、天然（迟钝的可爱）。这些属性是共享的速记——说一个角色是傲娇，一个词就传达了整套行为模式。中文用「傲娇」仿译，两段式结构原样保留。",
+        "ja": "「ツンデレ」は属性分類の中で最も有名なもので、ヤンデレ・クーデレ・天然などが並ぶ。属性は行動パターン全体を一語で伝える共有の略号。中国語は「傲娇」と二字構造を保って翻案した。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Origin. Mainstream enough that non-fans know it.", "zh": "词源，普及到非粉丝也知道。", "ja": "語源。一般にも通じる。" } },
+      { "lang": "zh", "note": { "en": "Calqued as 傲娇, now used about real people too.", "zh": "仿译成「傲娇」，现在也用来说真人。", "ja": "「傲娇」として定着し、実在の人にも使う。" } },
+      { "lang": "en", "note": { "en": "Borrowed untranslated as \"tsundere\"; \"hot and cold\" is the nearest plain-English gloss.", "zh": "英文直接借用 tsundere，大白话最接近的是 hot and cold。", "ja": "英語では tsundere のまま借用。" } }
+    ],
+    "example": {
+      "text": "别看他嘴硬，标准傲娇，转头就把作业帮你写了。",
+      "translation": { "en": "\"Don't mind the attitude — textbook tsundere. He'll have your homework done by tonight.\"", "zh": "「别看他嘴硬，标准傲娇，转头就把作业帮你写了。」" },
+      "source": "B站 弹幕"
+    },
+    "category": "character",
+    "tags": ["archetype", "attribute", "loanword"],
+    "related": ["yandere", "oshi"],
+    "sensitivity": "safe",
+    "first_seen": "日本のオタク文化, ~2002",
+    "status": "verified"
+  },
+  {
+    "id": "yandere",
+    "term": "病娇",
+    "aliases": ["yandere", "ヤンデレ", "bingjiao", "病嬌"],
+    "reading": "yandere / ヤンデレ · bìng jiāo",
+    "source_language": "ja",
+    "machine_translation": "sick and delicate",
+    "real_meaning": {
+      "en": "Loving someone so obsessively that it turns dangerous.",
+      "zh": "爱一个人爱到偏执、危险的程度。",
+      "ja": "愛情が高じて危険な域に達する性格類型。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "From 病んでる (yanderu, \"mentally unwell\") plus デレ (dere, lovestruck). A yandere character is devoted to the point of possessiveness and, in fiction, often violence. It is a fictional archetype, not a description of real people or a diagnosis.",
+        "zh": "由「病んでる」（心理病态）和「デレ」（痴恋）合成。病娇角色的爱到了占有的程度，在虚构作品里往往伴随暴力。它是一个虚构类型，不是在描述真人，也不是诊断。",
+        "ja": "「病んでる」と「デレ」の合成。愛情が独占欲や暴力に転じる類型。あくまで創作上の分類で、実在の人物の診断ではない。"
+      },
+      "full": {
+        "en": "病娇 sits opposite 傲娇 in the 属性 taxonomy and is one of the terms most likely to be misread by outsiders, because the vocabulary sounds clinical while the usage is purely genre. When explaining it to parents or newcomers, the useful framing is that it names a plot pattern — the loving character who becomes a threat — in the same way \"femme fatale\" does, and that fans discussing a yandere character are discussing fiction, not endorsing anything.",
+        "zh": "「病娇」在属性体系里和傲娇相对，也是最容易被圈外人误读的词之一，因为它的字面听起来像临床用语，实际用法却纯粹是类型标签。向家长或新人解释时，有用的说法是：它命名的是一种情节模式——深情的角色变成威胁——和「蛇蝎美人」是同一类标签，讨论病娇角色的人是在讨论虚构作品。",
+        "ja": "「ヤンデレ」は属性分類でツンデレの対極にあり、語感が臨床的なため外部から誤解されやすい。実際にはジャンル記号であり、femme fatale と同種のラベルだと説明すると伝わりやすい。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Standard archetype label in visual novels and anime.", "zh": "在视觉小说和动画里是标准类型标签。", "ja": "ノベルゲー・アニメの標準的な類型。" } },
+      { "lang": "zh", "note": { "en": "Calqued as 病娇, same fictional-only usage.", "zh": "仿译成「病娇」，同样只用于虚构。", "ja": "「病娇」として定着。" } },
+      { "lang": "en", "note": { "en": "Borrowed as \"yandere\"; \"obsessive love interest\" is the plain gloss.", "zh": "英文直接借用 yandere，大白话是 obsessive love interest。", "ja": "英語では yandere のまま。" } }
+    ],
+    "example": {
+      "text": "这游戏的女主是标准病娇线，慎入。",
+      "translation": { "en": "\"The heroine's route in this game is textbook yandere. Go in warned.\"", "zh": "「这游戏女主是标准病娇线，慎入。」" },
+      "source": "游戏讨论区"
+    },
+    "category": "character",
+    "tags": ["archetype", "attribute", "explain-carefully"],
+    "related": ["tsundere", "jirai"],
+    "sensitivity": "mild",
+    "first_seen": "日本のオタク文化, ~2005",
+    "status": "verified"
+  },
+  {
+    "id": "pofang",
+    "term": "破防",
+    "aliases": ["破防了", "pofang", "破了防御", "emo了"],
+    "reading": "pò fáng",
+    "source_language": "zh",
+    "machine_translation": "break defence",
+    "real_meaning": {
+      "en": "Emotionally wrecked — something got through your guard.",
+      "zh": "情绪防线被击穿，一下子绷不住了。",
+      "ja": "心の防御を突き破られ、感情が抑えられなくなること。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Originally a gaming term for breaking through an enemy's defence. Now it means something hit you emotionally and you could not hold it together. Often said about a scene that made you cry unexpectedly.",
+        "zh": "本来是游戏里「破除防御」的意思。现在指某件事击中了你，一下没绷住。常用来说某个片段让人猝不及防地哭了。",
+        "ja": "元はゲームで敵の防御を破ること。今は感情の防壁を突き破られ、こらえきれなくなる意味で使う。"
+      },
+      "full": {
+        "en": "破防 became one of the most-used Chinese internet words of the early 2020s precisely because it is emotionally precise without being sentimental: it frames feeling as armour and describes the moment the armour fails, which lets people admit to being moved while keeping an ironic distance. It covers both crying at a beautiful scene and being annoyed into losing composure — the shared element is losing control, not the emotion behind it.",
+        "zh": "「破防」成为 2020 年代初中文网络最常用的词之一，正因为它精确却不煽情：它把情绪说成护甲，描述护甲失效的那一刻，让人既承认被打动，又保留一层反讽距离。它同时覆盖「被美好片段看哭」和「被气到失态」——共同点是失控，而不是背后那种情绪。",
+        "ja": "「破防」は感情を鎧に喩え、それが破れる瞬間を描く語。感動を認めつつ皮肉な距離を保てるため2020年代初頭に急速に広まった。泣かされる場合も怒りで冷静さを失う場合も含み、共通点は制御の喪失。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "One of the most common internet words of the 2020s, far beyond ACG.", "zh": "2020 年代最常用的网络词之一，早已超出二次元圈。", "ja": "2020年代を代表するネット語で、ACG圏を超えて普及。" } },
+      { "lang": "ja", "note": { "en": "Closest is 心にきた or 涙腺崩壊 for the crying sense.", "zh": "日语最接近的是「心にきた」，哭的那层意思是「涙腺崩壊」。", "ja": "「心にきた」「涙腺崩壊」が近い。" } },
+      { "lang": "en", "note": { "en": "\"That broke me\", \"I'm not okay\", \"emotional damage\".", "zh": "英文说 that broke me、I'm not okay、emotional damage。", "ja": "英語では that broke me など。" } }
+    ],
+    "example": {
+      "text": "最后那句台词我直接破防，眼泪根本收不住。",
+      "translation": { "en": "\"That last line broke me. I could not stop crying.\"", "zh": "「最后那句台词我直接绷不住了，眼泪根本收不住。」" },
+      "source": "B站 弹幕"
+    },
+    "category": "slang",
+    "tags": ["emotion", "gaming-origin", "false-friend"],
+    "related": ["dao", "kamikai", "yinanping"],
+    "sensitivity": "safe",
+    "first_seen": "游戏用语转网络用语, ~2020",
+    "status": "verified"
+  },
+  {
+    "id": "soramimi",
+    "term": "空耳",
+    "aliases": ["soramimi", "そらみみ", "kongersubtitle", "空耳字幕", "misheard lyrics"],
+    "reading": "soramimi / そらみみ · kōng ěr",
+    "source_language": "ja",
+    "machine_translation": "empty ear",
+    "real_meaning": {
+      "en": "Deliberately mishearing foreign lyrics as words in your own language.",
+      "zh": "故意把外语歌词听成本国语言的谐音，做成搞笑字幕。",
+      "ja": "外国語の歌詞を自国語の音に聞き做す遊び。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "Someone takes a song in a language they don't speak and writes subtitles of what it sounds like in their own language. The result is nonsense and that is the joke. Very common on Niconico and Bilibili.",
+        "zh": "把一首听不懂的外语歌，按发音写成本国语言的字幕，出来的内容毫无意义，笑点就在这里。在 niconico 和 B 站上非常常见。",
+        "ja": "聞き取れない外国語の歌に、母語で音の似た字幕を付ける遊び。意味不明になること自体が笑いどころ。"
+      },
+      "full": {
+        "en": "空耳 is a genuinely cross-cultural form: it only exists because two languages sound alike by accident, and it travelled from Japanese video culture into Chinese video culture along with the practice of bullet comments. It is also the clearest possible demonstration of this project's thesis — a machine translator handles meaning, but 空耳 is a joke that lives entirely in sound, and no amount of translating the words will explain why it is funny.",
+        "zh": "「空耳」是一种真正跨文化的形式：它之所以存在，只因为两种语言碰巧听起来像；它随着弹幕文化一起从日本视频圈传入中文视频圈。它也是本项目论点最清楚的证明——机器翻译处理的是意义，而空耳的笑点完全活在声音里，把词翻译得再准也解释不了它为什么好笑。",
+        "ja": "「空耳」は二つの言語が偶然似て聞こえることでのみ成立する、真に文化横断的な形式。弾幕文化とともに中国語圏へ伝わった。意味ではなく音に笑いが宿るため、翻訳では説明できない典型例。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Origin, from a long-running TV segment. Now a video genre.", "zh": "词源来自一个长寿电视栏目，现在是一个视频类型。", "ja": "長寿番組のコーナーが語源。現在は動画ジャンル。" } },
+      { "lang": "zh", "note": { "en": "Borrowed as 空耳; a staple of Bilibili video culture.", "zh": "借用为「空耳」，是 B 站视频文化的常备品类。", "ja": "「空耳」として借用され、bilibiliの定番。" } },
+      { "lang": "en", "note": { "en": "\"Mondegreen\" or \"misheard lyrics\" — but English lacks the video-subtitle tradition.", "zh": "英文是 mondegreen 或 misheard lyrics，但没有配字幕做视频的传统。", "ja": "英語では mondegreen。字幕動画の伝統はない。" } }
+    ],
+    "example": {
+      "text": "这首歌的空耳字幕比原歌词还出名。",
+      "translation": { "en": "\"The misheard-lyric subtitles for this song are more famous than the actual words.\"", "zh": "「这首歌的空耳字幕比原歌词还出名。」" },
+      "source": "B站 / ニコニコ"
+    },
+    "category": "slang",
+    "tags": ["video-culture", "sound", "cross-language"],
+    "related": ["kusa", "qianfang-gaoneng"],
+    "sensitivity": "safe",
+    "first_seen": "日本のテレビ番組, 1990s",
+    "status": "verified"
+  },
+  {
+    "id": "kamikai",
+    "term": "神回",
+    "aliases": ["kamikai", "かみかい", "神episode", "神回だった"],
+    "reading": "kamikai / かみかい · shén huí",
+    "source_language": "ja",
+    "machine_translation": "god times / divine return",
+    "real_meaning": {
+      "en": "An episode so good the fandom will talk about it for years.",
+      "zh": "神级的一集，好到粉丝会讨论好几年。",
+      "ja": "何年も語り継がれるほど出来の良い回。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "神 means god and 回 means episode. A 神回 is not just a good episode — it is the one people rewatch, clip and argue about. The opposite is 作画崩壊 (an episode where the animation falls apart).",
+        "zh": "「神」是神，「回」是集。神回不只是好看的一集，而是大家会反复重看、剪辑、争论的那一集。反面是「作画崩壊」（作画崩了的一集）。",
+        "ja": "単に良い回ではなく、繰り返し見返され語られる回のこと。対極は作画崩壊回。"
+      },
+      "full": {
+        "en": "神回 belongs to a family of 神-prefixed praise (神作 a masterpiece, 神曲 a fantastic song, 神絵師 an incredible artist) that both Japanese and Chinese fandom use freely. The prefix has no religious weight at all — it functions the way English \"killer\" does in \"killer track\". This is worth flagging for newcomers, who sometimes read it as reverent when it is simply enthusiastic.",
+        "zh": "「神回」属于一整套「神」字头的夸奖（神作、神曲、神絵師），中日两边的粉丝都用得很随意。这个前缀完全没有宗教分量——它的功能相当于英文里 killer track 的 killer。这一点值得对新人说明，他们有时会把它读得过于郑重，其实只是热情。",
+        "ja": "「神回」は神作・神曲・神絵師などの「神」接頭辞の一群に属する。宗教的な重みは全くなく、英語の killer に近い機能語。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "ja", "note": { "en": "Origin. Used for anime, variety shows, anything episodic.", "zh": "词源在这里，动画、综艺，只要分集都能用。", "ja": "語源。アニメにもバラエティにも使う。" } },
+      { "lang": "zh", "note": { "en": "Borrowed directly; also 封神 for a performance that ascends.", "zh": "直接借用，另有「封神」形容一次表现登神。", "ja": "そのまま借用。「封神」という言い方もある。" } },
+      { "lang": "en", "note": { "en": "\"An all-timer\", \"peak fiction\", \"that episode goes hard\".", "zh": "英文说 an all-timer、peak fiction、that episode goes hard。", "ja": "英語では an all-timer など。" } }
+    ],
+    "example": {
+      "text": "12話は完全に神回、作画も演出も全部良かった。",
+      "translation": { "en": "\"Episode 12 was an absolute all-timer — animation, direction, everything.\"", "zh": "「12 集完全是神回，作画和演出全都在线。」" },
+      "source": "X (Twitter)"
+    },
+    "category": "slang",
+    "tags": ["praise", "anime", "false-friend"],
+    "related": ["kusa", "pofang", "qianfang-gaoneng"],
+    "sensitivity": "safe",
+    "first_seen": "日本のネット掲示板, 2000s",
+    "status": "verified"
+  },
+  {
+    "id": "qianfang-gaoneng",
+    "term": "前方高能",
+    "aliases": ["高能", "前方高能预警", "qianfang gaoneng", "警告"],
+    "reading": "qián fāng gāo néng",
+    "source_language": "zh",
+    "machine_translation": "high energy ahead",
+    "real_meaning": {
+      "en": "Heads up — something intense is about to happen on screen.",
+      "zh": "预警：接下来的画面很炸，做好心理准备。",
+      "ja": "この先に衝撃的な場面が来るという予告。"
+    },
+    "explanation": {
+      "simple": {
+        "en": "A bullet comment viewers post a few seconds before a shocking, scary or overwhelming moment, so later viewers can brace themselves. It is a small act of care between strangers watching the same video at different times.",
+        "zh": "观众在震撼、恐怖或情绪爆炸的片段前几秒发的弹幕，让后来的人有个心理准备。这是隔着时间的陌生人之间一点小小的照顾。",
+        "ja": "衝撃的な場面の数秒前に視聴者が流す弾幕。後から見る人が心構えできるようにする、時間を隔てた気遣い。"
+      },
+      "full": {
+        "en": "The phrase comes from a sci-fi warning formula (\"high energy reaction detected ahead\") and became one of the founding conventions of Chinese bullet-comment culture. It is worth explaining to outsiders because it shows that a screen full of scrolling text is not noise — it is a live annotation layer where viewers warn, joke and grieve together. 前方高能 is arguably the ancestor of every content warning in that layer.",
+        "zh": "这句话出自科幻作品里的警报台词（「前方检测到高能反应」），后来成了中文弹幕文化的奠基约定之一。它值得向圈外人解释，因为它说明满屏滚动的字不是噪音——那是一层实时批注，观众在那里互相提醒、开玩笑、一起难过。前方高能大概是这一层里所有内容预警的祖宗。",
+        "ja": "SF作品の警報台詞に由来し、中国語圏の弾幕文化を形づくった慣習の一つ。流れる文字は雑音ではなく、視聴者が警告し合い笑い合う注釈層であることを示す好例。"
+      }
+    },
+    "cross_culture": [
+      { "lang": "zh", "note": { "en": "A founding convention of Bilibili bullet comments.", "zh": "B 站弹幕文化的奠基约定之一。", "ja": "bilibili弾幕文化の基本的な慣習。" } },
+      { "lang": "ja", "note": { "en": "Niconico uses 「ここ好き」 and 「クル」 for similar timed reactions.", "zh": "niconico 上类似的定时反应是「ここ好き」「クル」。", "ja": "ニコニコでは「ここ好き」「クル」など。" } },
+      { "lang": "en", "note": { "en": "\"TW\" or a timestamped \"wait for it\" in YouTube comments — but without the synchronised overlay.", "zh": "英文是 TW，或 YouTube 评论里带时间戳的 wait for it——但没有同步覆盖在画面上那一层。", "ja": "英語では TW や wait for it。同期表示の層はない。" } }
+    ],
+    "example": {
+      "text": "前方高能，心脏不好的建议直接跳过这段。",
+      "translation": { "en": "\"Warning, intense scene ahead — skip this bit if you're squeamish.\"", "zh": "「前方高能，心脏不好的建议直接跳过这段。」" },
+      "source": "B站 弹幕"
+    },
+    "category": "slang",
+    "tags": ["bullet-chat", "warning", "for-parents"],
+    "related": ["kusa", "kamikai", "soramimi"],
+    "sensitivity": "safe",
+    "first_seen": "中文弹幕文化, ~2010",
+    "status": "verified"
+  }
+]

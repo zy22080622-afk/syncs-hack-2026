@@ -1,0 +1,34 @@
+{
+  "_comment": "演示保命用。DEMO_MODE=1 时后端完全不走网络，只从这里取结果。演示前把要展示的输入跑一遍真 API，把返回粘到这里。",
+  "draft": {
+    "氪金": {
+      "term": "氪金",
+      "reading": "kè jīn",
+      "source_language": "zh",
+      "machine_translation": "krypton gold",
+      "real_meaning": {
+        "en": "Spending real money in a game, usually on gacha pulls.",
+        "zh": "在游戏里花真钱，通常指抽卡。",
+        "ja": "ゲームに実際のお金を使うこと（主にガチャ）。"
+      },
+      "explanation": {
+        "simple": {
+          "en": "The character 氪 is the element krypton. It was chosen because it sounds like the Japanese word for paying. So 氪金 just means putting money into a game.",
+          "zh": "「氪」是化学元素氪，被选中是因为它谐音日语「課金」。所以氪金就是往游戏里充钱。",
+          "ja": "「氪」は元素クリプトンの字で、日本語の「課金」との音の近さから使われるようになった。ゲームへの課金を指す。"
+        },
+        "full": {
+          "en": "A deliberate mis-transcription of Japanese 課金. Players joke about it as if it were a substance they are addicted to. The opposite, playing free, is 白嫖.",
+          "zh": "对日语「課金」的故意错译。玩家把氪说得像一种上瘾物质。反面是完全不花钱玩，叫白嫖。",
+          "ja": "日本語「課金」の意図的な当て字。中毒物質のように冗談めかして語られる。対義は無課金の「白嫖」。"
+        }
+      },
+      "category": "gaming",
+      "tags": ["gacha", "money"],
+      "sensitivity": "safe",
+      "confidence": "high",
+      "status": "ai-draft"
+    }
+  },
+  "decode": {}
+}
